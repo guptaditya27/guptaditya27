@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptaditya27" alt="guptaditya27" /></a> </p>
 
 - 🌱 I’m currently learning **Data structure's and Algorithm's**
+-  🌱 Deep diving in depth's of webdevelopment and various framework's of javascript **
 
 - 📫 How to reach me **adgupta285@gmail.com**
 
