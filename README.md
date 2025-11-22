@@ -2,7 +2,7 @@
 <body style="background: linear-gradient(to right, #fceabb, #f8b500); padding: 20px; font-family: 'Segoe UI', sans-serif;">
 
 <p align="center">
-  <img src="https://bing.com/th/id/BCO.9f102a9b-1e64-4694-bffd-d6c1b807cd3f.png" alt="Aditya Gupta - Anime Style Fullstack Developer Banner" />
+  <img src="https://bing.com/th/id/BCO.9f102a9b-1e64-4694-bffd-d6c1b807cd3f.png" alt="Aditya Gupta -Fullstack Developer" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
